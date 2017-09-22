@@ -9,11 +9,11 @@ namespace Exmpel1
     {
         static void SkrivUtVeckodagar()
         {
-            Console.WriteLine("Måndag");
-            Console.WriteLine("Tisdag");
-            Console.WriteLine("Onsdag");
-            Console.WriteLine("Torsdag");
-            Console.WriteLine("Fredag");
+            Console.WriteLine("AAAAA");
+            Console.WriteLine("BBBBB");
+            Console.WriteLine("CCCCC");
+            Console.WriteLine("DDDDDD");
+            Console.WriteLine("FredEEEEEEEag");
             Console.WriteLine("Lördag");
             Console.WriteLine("Söndag");
         }
